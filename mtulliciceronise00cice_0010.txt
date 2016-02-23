@@ -1,0 +1,16 @@
+SIGLA
+
+Κατ’. = codex Ravennas in bibl. Classensi, saeci. xiii
+secundum Mommsenum
+Am. et F = codex Antonianus et codex Faerni quibus Malaspina
+usus est
+
+l = editio Iensoniana princeps (Venetiis 1470)
+Rom. = editio Romana princeps (Romae 1470)
+[sias. = editio Petri Victori (Venetiis 1534-1537)
+Man. = editio Pauli Manuti (Venetiis 1563)
+
+codd. = consensus codicum vel omnium vel plurimorum
+velt. = editores veteres
+vulg. = scriptura in editionibus vulgata
+
